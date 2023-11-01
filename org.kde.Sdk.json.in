@@ -143,13 +143,13 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/qt/qtbase/archive/ec5383efc37e993f5dfa8e729ad9b6e38c3cfe5f.zip",
-                    "sha256": "931bd311a8650fbc65e43515826b1a39f2ad3eab5d81f4fae35298f0c6126c68",
+                    "url": "https://github.com/liangqi/qtbase/archive/389a0b84949586adea46d2c6976be1179bb95591.zip",
+                    "sha256": "cb5872833e9fbb8d7a2d3778314b3b031c56324cd699fef22f3dad885b03591b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 7927,
                         "stable-only": true,
-                        "url-template": "https://github.com/qt/qtbase/archive/ec5383efc37e993f5dfa8e729ad9b6e38c3cfe5f.zip"
+                        "url-template": "https://github.com/liangqi/qtbase/archive/389a0b84949586adea46d2c6976be1179bb95591.zip"
                     }
                 }
             ]
